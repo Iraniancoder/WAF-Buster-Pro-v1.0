@@ -1,3 +1,5 @@
 httpx
 urllib3
 colorama
+base64
+hashlib
