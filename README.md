@@ -6,3 +6,7 @@ A complete open source tool for identifying all types of firewalls
  Evading Detection
  
  Sending Payloads with Different Techniques
+
+# How does it work?
+
+  python WAFBusterPro.py
